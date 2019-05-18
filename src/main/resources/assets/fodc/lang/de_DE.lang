@@ -1,0 +1,7 @@
+item.fodc.ore_converter.name=Erz-Konverter
+tile.fodc.ore_conv_table.name=Erz-Konverter Werkbank
+tile.fodc.ore_autoconverter.name=Automatischer Erz-Konverter
+
+container.fodc.ore_autoconverter=Automatischer Erz-Konverter
+
+gui.jei.fodc.oreconverter=Erz-Konverter
