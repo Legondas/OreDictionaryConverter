@@ -2,6 +2,6 @@ item.fodc.ore_converter.name=Erzumwandler
 tile.fodc.ore_conv_table.name=Erzumwandlungswerkbank
 tile.fodc.ore_autoconverter.name=Automatischer Erzumwandler
 
-container.fodc.ore_autoconverter=Automatischer Erz-Konverter
+container.fodc.ore_autoconverter=Automatischer Erzumwandler
 
 gui.jei.fodc.oreconverter=Erz-Konverter
